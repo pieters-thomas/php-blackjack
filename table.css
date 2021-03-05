@@ -1,0 +1,28 @@
+*{
+    text-align: center;
+
+}
+.top{
+    width: 100%;
+    position: absolute;
+}
+.container{
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+.chip-bag{
+
+}
+.card-table{
+
+}
+
+.player-card-holder{
+
+}
+
+.playCard{
+    font-size: 5rem;
+    height: 150px;
+    width: 150px;
+}
